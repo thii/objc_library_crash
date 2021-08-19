@@ -1,0 +1,3 @@
+```
+bazelisk build lib
+```
